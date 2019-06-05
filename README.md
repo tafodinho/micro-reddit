@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# micro-reddit
+a smaller version of reddit
+>>>>>>> 5bd5e69c56927ffd78b13ff760ac3d92e7e79583
