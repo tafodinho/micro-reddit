@@ -5,9 +5,12 @@ one:
   email: MyString
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   password: MyString
 =======
 >>>>>>> dd0d25d68be34176b97398dbfc96a3f5869346dc
+=======
+>>>>>>> parent of 4069bd6... Merge branch 'dev'
 =======
 >>>>>>> parent of 4069bd6... Merge branch 'dev'
 
@@ -16,8 +19,11 @@ two:
   email: MyString
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   password: MyString
 =======
 >>>>>>> dd0d25d68be34176b97398dbfc96a3f5869346dc
+=======
+>>>>>>> parent of 4069bd6... Merge branch 'dev'
 =======
 >>>>>>> parent of 4069bd6... Merge branch 'dev'
